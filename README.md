@@ -96,7 +96,7 @@ the exploratory of the Data to answer some questions about the data such as;
 8. Find the total number of active and canceled subscriptions.
 
 ### Data Analysis 
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during my nalysis; 
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during my analysis; 
 
 ```SQL
 select *
@@ -107,7 +107,7 @@ select *
 From Table Name = CustomerData
 ```
 ### Data Visualization
-
+![Sales Data](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/SalesData%20Pivot%20Table.png)
 
 
 
