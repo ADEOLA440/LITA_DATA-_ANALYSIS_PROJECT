@@ -1,5 +1,20 @@
-# Welcome to GitHub Desktop!
+# LITA_DATA_ANALYSIS_PROJECT_SALES_DATA
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+### OUTLINE
+[PROJECT OVERVIEW:   ](Project-Overview)
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+[DATA DESCRIPTION:    ](Data-Description)
+
+[STATISTICS ABOUT THE DATASET:  ](Statistics-about-the-Dataset)
+
+[METHODOLGY:    ](Methodology)
+
+[DATA ANALYSIS:    ](Dtata-Analysis)
+
+[DASHBOARD OVERVIEW WITH POWER BI:  ](Dashboard-Overview_With_Power_Bi)
+
+
+
+
+
+
