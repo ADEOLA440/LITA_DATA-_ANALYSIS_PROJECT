@@ -108,7 +108,7 @@ From Table Name = CustomerData
 ```
 ### Data Visualization
 ![Sales Data](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/SalesData%20Pivot%20Table.png)
-
+![Sales Data Visulisation](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/Data%20Visualisation%20on%20Salesdata.png)
 
 
 
