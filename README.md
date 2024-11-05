@@ -1,19 +1,19 @@
 # LITA_DATA_ANALYSIS_PROJECT
 
 ### Capstone-Project On Sales Transactions and Customer Subcription Dataset
-[Project Overview For Sales Data   ](Project-Overview_Sales_Data)
+[Project Overview For Sales Data   ](#Project-Overview_Sales_Data)
 
-[Project Overview For Customer Subcription Data](project-overview-for-customer-subcription-data) 
+[Project Overview For Customer Subcription Data](#project-overview-for-customer-subcription-data) 
 
-[Column Descriptions For Sales Data](column-descriptions-for-sales-data)
+[Column Descriptions For Sales Data](#column-descriptions-for-sales-data)
 
-[Column Descriptions For Customer Data](column-descriptions-for-customer-data)
+[Column Descriptions For Customer Data](#column-descriptions-for-customer-data)
 
-[Data Source](data-source)
+[Data Source](#data-source)
 
-[Tools Used](tools-used)  
+[Tools Used](#tools-used)  
 
-[Data Cleaning and Preparations](data-cleaning-and-preparations)  
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)  
 
 [Exploratory Data Analysis For Sales Data](exploratory-data-analysis_for-sales-data) 
 
