@@ -37,7 +37,7 @@ This dataset provides a comprehensive look at customer subscription patterns suc
 
 ### Column Descriptions For Sales Data
 -	OrderID: A unique identifier for each order.
--	CustomerId: A unique identifier for each customer placing an order.
+-	CustomerId: A unique identifier for each customer.
 -	Product: The specific product purchased in each transaction.
 -	Region: The geographical location (e.g., North, South, East, West) where the order was placed.
 -	OrderDate: The date when the order was made.
@@ -99,7 +99,7 @@ the exploratory of the Data to answer some questions about the data such as;
 8. Find the total number of active and canceled subscriptions.
 Examples
 ![CustomerData on SQL](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/SQL%20on%20CustomerData.png)
-
+![Average Duration on CustomerData on SQL](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/Customerdata%20sql.png)
 
 ### Data Analysis 
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during my analysis; 
@@ -120,14 +120,14 @@ From Table Name = CustomerData
 
 
 #### My Result For Sales Data 
-Our Sales Data analysis tells a story of what the customers love and how they shop. Shoes are the star of sales, selling over 600,000 units and becoming the best-selling product. Meanwhile, socks, though popular, came in last with about 180,000 sold.
-Each month brought its own pattern,as the year went on, the first and second quarters showed strong, high sales. But as summer turned into fall, sales began to drop, and by the fourth quarter, they were down by over 50%.
-Looking at different regions, the South led the way, making up 44% of our sales, followed by the East at 23%, the North at 18%, and finally, the West with 14%. Each area added its own flavor to our overall numbers, but together, they showed the store’s success across the map.
-One surprising insight was that higher-priced items usually sold better. Customers seemed to prefer spending a bit more when they felt the product’s quality was worth it. And, overall, the average sales rate was an impressive 211.78%, showing strong customer interest throughout the year.
+Our Sales Data analysis tells a story of what the customers love and how they shop. Shoes are the star of sales, selling over 600,000 units and becoming the best-selling product. Meanwhile, socks, though popular, came in last.
+Each month brought its own pattern,as the year went on, the first and second quarters showed strong, high sales. But as summer turned into fall, sales began to drop, and by the fourth quarter, they were down.
+Looking at different regions, the South led the way,followed by the East, the North, and finally, the West. Each area added its own flavor to our overall numbers, but together, they showed the store’s success across the map.
+the average sales rate was an impressive 211.78%, showing strong customer interest throughout the year.
 
 #### My Result For Customer Data
 Our Customer data analysis uncovered some interesting patterns in how our customers use their subscriptions. With a variety of plans available, the "Basic" subscription emerged as the most popular, accounting for over 50% of all subscriptions. It seems that simplicity and affordability have won over a large part of our customer base.
-In terms of commitment, our subscribers have an average subscription duration of 365 days. This steady yearly cycle reflects our customers’ satisfaction and trust, as they renew their plans for a full year on average.
+In terms of commitment, our subscribers have an average subscription duration of 365 days,as they renew their plans for a full year on average.
 One region, however, stands out: the East. Unlike other regions, where some customers occasionally cancel their plans, the East shows a remarkable commitment to their subscriptions, with zero cancellations on record. This region’s loyalty adds a unique dynamic to our customer insights.
 Lastly, the total revenue generated from all subscriptions reached an impressive 68 million. This figure reflects both the loyalty and the value our customers place on their subscriptions, building a strong financial foundation for our service.
 
