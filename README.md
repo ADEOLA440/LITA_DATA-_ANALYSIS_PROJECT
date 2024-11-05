@@ -85,6 +85,7 @@ the exploratory of the Data to answer some questions about the data such as;
 8. Identify products with no sales in the last quarter.
 Examples:
 ![SalesData SQL](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/SQL_SALESDATA.png)
+![SalesDataSQL](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/Sales%20Data%20Sql.png)
 
 #### Exploratory Data Analysis For Customer Data
 the exploratory of the Data to answer some questions about the data such as;
