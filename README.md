@@ -99,7 +99,7 @@ the exploratory of the Data to answer some questions about the data such as;
 8. Find the total number of active and canceled subscriptions.
 Examples
 ![CustomerData on SQL](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/SQL%20on%20CustomerData.png)
-![Average Duration on CustomerData on SQL](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/Customerdata%20sql.png)
+![CustomerData on SQL](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/Customerdata%20sql.png)
 
 ### Data Analysis 
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during my analysis; 
