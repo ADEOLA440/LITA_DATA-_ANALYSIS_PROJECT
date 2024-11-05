@@ -83,6 +83,8 @@ the exploratory of the Data to answer some questions about the data such as;
 6. Find the top 5 customers by total purchase amount.
 7. Calculate the percentage of total sales contributed by each region.
 8. Identify products with no sales in the last quarter.
+Examples:
+![SalesData SQL](https://github.com/ADEOLA440/LITA_DATA-_ANALYSIS_PROJECT/blob/main/SQL_SALESDATA.png)
 
 #### Exploratory Data Analysis For Customer Data
 the exploratory of the Data to answer some questions about the data such as;
