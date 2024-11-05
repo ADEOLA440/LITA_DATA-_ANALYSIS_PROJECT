@@ -73,9 +73,8 @@ In the intial phase of Data Cleaning and Preparations, we perform the following 
 - Handling missing variables
 - Data Cleaning and Formatting 
 
-### Exploratory Data Analysis 
-EDA involved the exploratory of the Data to answer some questions about the data such as;
-#### For Sales Data 
+#### Exploratory Data Analysis For Sales Data ON SQL
+the exploratory of the Data to answer some questions about the data such as;
 1. Retrieve the total sales for each product category.
 2. Find the number of sales transactions in each region.
 3. Find the highest-selling product by total sales value.
@@ -85,7 +84,8 @@ EDA involved the exploratory of the Data to answer some questions about the data
 7. Calculate the percentage of total sales contributed by each region.
 8. Identify products with no sales in the last quarter.
 
-#### For Customer Data
+#### Exploratory Data Analysis For Customer Data
+the exploratory of the Data to answer some questions about the data such as;
 1. Retrieve the total number of customers from each region.
 2. Find the most popular subscription type by the number of customers.
 3. Find customers who canceled their subscription within 6 months.
@@ -96,7 +96,7 @@ EDA involved the exploratory of the Data to answer some questions about the data
 8. Find the total number of active and canceled subscriptions.
 
 ### Data Analysis 
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis; 
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during my nalysis; 
 
 ```SQL
 select *
@@ -114,8 +114,8 @@ From Table Name = CustomerData
 
 
 #### My Result For Sales Data 
-Our Sales Data analysis tells a story of what our customers love and how they shop. Shoes are the star of our sales, selling over 600,000 units and becoming our best-selling product. Meanwhile, socks, though popular, came in last with about 180,000 sold.
-Each month brought its own pattern, with February being the busiest month of all. As the year went on, the first and second quarters showed strong, high sales. But as summer turned into fall, sales began to drop, and by the fourth quarter, they were down by over 50%.
+Our Sales Data analysis tells a story of what the customers love and how they shop. Shoes are the star of sales, selling over 600,000 units and becoming the best-selling product. Meanwhile, socks, though popular, came in last with about 180,000 sold.
+Each month brought its own pattern,as the year went on, the first and second quarters showed strong, high sales. But as summer turned into fall, sales began to drop, and by the fourth quarter, they were down by over 50%.
 Looking at different regions, the South led the way, making up 44% of our sales, followed by the East at 23%, the North at 18%, and finally, the West with 14%. Each area added its own flavor to our overall numbers, but together, they showed the store’s success across the map.
 One surprising insight was that higher-priced items usually sold better. Customers seemed to prefer spending a bit more when they felt the product’s quality was worth it. And, overall, the average sales rate was an impressive 211.78%, showing strong customer interest throughout the year.
 
